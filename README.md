@@ -5,7 +5,7 @@
 
 
   - [Conduct a security audit for a company ](https://github.com/ToniT0dorov/Conduct_a_security_audit)
-   Doing Cybersecurity courses now and will be addin more soon...
+  <h4> Doing Cybersecurity courses now and will be adding more soon...</h4>
 
 <h2>📜 Certifications</h2>
 
