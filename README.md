@@ -1,9 +1,9 @@
-<h1>Hi, I'm Toni! <br/><a href="https://www.linkedin.com/in/tonyt0dorov/">Cybersecurity Professional</a>, <a >Ex Service Desk Agent</a></h1>
+<h1>Hi, I'm Toni! <br/><a href="https://www.linkedin.com/in/tonit0dorov/">Cybersecurity Professional</a>, <a >Ex Service Desk Agent</a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Conduct a security audit </b>
-  - [Conduct a security audit ](https://github.com/TonyT0dorov/Conduct_a_security_audit)
+  - [Conduct a security audit ](https://github.com/ToniT0dorov/Conduct_a_security_audit)
 
 
 <h2>📜 Certifications</h2>
@@ -19,5 +19,5 @@
 
 
 [instagram]: https://www.instagram.com/tony.todorov.bg/
-[linkedin]: https://linkedin.com/in/tonyt0dorov
+[linkedin]: https://linkedin.com/in/tonit0dorov
 
