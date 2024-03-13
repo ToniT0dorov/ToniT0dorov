@@ -3,12 +3,12 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Conduct a security audit </b>
-  - [Conduct a security audit ](https://github.com/joshmadakor1/Conduct_a_security_audit)
+  - [Conduct a security audit ](https://github.com/TonyT0dorov/Conduct_a_security_audit)
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📜 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google CyberSecurity Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
