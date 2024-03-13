@@ -1,4 +1,4 @@
-<h1>Hi, I'm Toni! <br/><a href="https://www.linkedin.com/in/tonit0dorov/">Cybersecurity Professional</a>
+<h1>Hi, I'm Toni! <br/><a href="https://www.linkedin.com/in/tonit0dorov/">Cybersecurity Newbie</a>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
