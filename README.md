@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-- <b>Conduct a security audit </b>
+
   - [Conduct a security audit ](https://github.com/ToniT0dorov/Conduct_a_security_audit)
 
 
