@@ -3,12 +3,12 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 
-  - [Conduct a security audit ](https://github.com/ToniT0dorov/Conduct_a_security_audit)
+  - [Conduct a security audit for a company ](https://github.com/ToniT0dorov/Conduct_a_security_audit)
 
 
 <h2>📜 Certifications</h2>
 
-- [Google CyberSecurity Professional - expected graduation 03/24](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google CyberSecurity Professional - expected graduation 03/24](https://www.coursera.org/professional-certificates/google-cybersecurity)
 - [CompTIA Security+ -  expected graduation 04/24](https://www.comptia.org/certifications/security)
 
 
