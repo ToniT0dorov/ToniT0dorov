@@ -7,6 +7,7 @@
   - [Conduct a security audit for a company ](https://github.com/ToniT0dorov/Conduct_a_security_audit)
   - [Use the NIST Cybersecurity Framework to respond to a security incident ](https://github.com/ToniT0dorov/Respond_to_a_security_incident)
   - [Use Linux commands to manage file permissions ](https://github.com/ToniT0dorov/Use_Linux_commands_to_manage_file_permissions)
+  - [Update a file through a Python algorithm ](https://github.com/ToniT0dorov/Update-a-file-through-a-Python-algorithm/blob/main/README.md)
   <h4> Doing Cybersecurity courses now and will be adding more soon...</h4>
 
 <h2>📜 Certifications</h2>
