@@ -12,7 +12,7 @@
 
 <h2>📜 Certifications</h2>
 
-- [Google CyberSecurity Professional - expected graduation 03/24](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- [Google CyberSecurity Professional ](https://coursera.org/share/036ce9767ebc52a10e991a7b35cb7f21)
 - [CompTIA Security+ -  expected graduation 04/24](https://www.comptia.org/certifications/security)
 
 
